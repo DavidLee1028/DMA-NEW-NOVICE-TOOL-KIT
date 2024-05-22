@@ -15,8 +15,9 @@
 >
 > 3.DMA cards will be very slow to transfer read speeds, but at the moment I've noticed DMA cards for the M2 slot, but they're still in the experimental stage and I wouldn't recommend buying one to test!
 
-
-David Discord server:
+## Admin
+--1 David Discord server:
+<img src="https://img2.imgtp.com/2024/05/23/PQVB6Xay.jpg" height="40"/>
 https://discord.gg/diyy1028
 
 ![ijiangtao](https://ipictures.github.io/me/phonephoto/ijiangtao201902172323.jpg)
