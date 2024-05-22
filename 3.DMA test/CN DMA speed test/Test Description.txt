@@ -1,0 +1,6 @@
+Administrator opens DMATest 
+Plug in Radar PC USB3.0++port
+
+The best results are achieved when the DMA can reach a rate of 5000.
+
+If your rate is low, there will be a delay when using, we suggest to change the data cable or USB port.
