@@ -14,3 +14,6 @@
 > 2.ASUS cant fix it HWID ban lmao 🤡🤡😭
 >
 > 3.DMA cards will be very slow to transfer read speeds, but at the moment I've noticed DMA cards for the M2 slot, but they're still in the experimental stage and I wouldn't recommend buying one to test!
+
+
+![ijiangtao](https://ipictures.github.io/me/phonephoto/ijiangtao201902172323.jpg)
