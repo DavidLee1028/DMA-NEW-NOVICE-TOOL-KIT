@@ -1,0 +1,7 @@
+
+1, CH341SerSetup:
+
+Driver for Type-c cable.
+
+If the computer can not recognize the hardware Please install me! 
+If it is recognized normally, please ignore
